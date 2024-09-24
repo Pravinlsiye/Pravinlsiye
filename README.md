@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Pravin L</h1>
-<h3 align="center">A passionate on Crypto currency</h3>
+<h3 align="center">A passionate on Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravinlsiye&label=Profile%20views&color=0e75b6&style=flat" alt="pravinlsiye" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pravinlsiye" alt="pravinlsiye" /></a> </p>
 
-- 🔭 I’m currently working on **Crypto Mining Automation**
+- 🔭 I’m currently working on **Trimble Inc**
 
-- 🌱 I’m currently learning **BlockChain,Cloud,Linux**
+- 🌱 I’m currently learning **System Design**
 
-- 👯 I’m looking to collaborate on **StockMarket**
+- 👯 I’m looking to collaborate on creating **Application architecture**
 
-- 🤝 I’m looking for help with **Trading**
+- 🤝 I’m looking for help with **Cryto Mining**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pravinlsiye](https://github.com/Pravinlsiye)
 
